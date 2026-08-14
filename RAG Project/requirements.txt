@@ -1,0 +1,114 @@
+# =========================
+# Core LLM Providers
+# =========================
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-mistralai
+mistralai
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Vector Database
+# =========================
+chromadb
+
+# =========================
+# Embedding Models
+# =========================
+sentence-transformers
+tiktoken
+
+# =========================
+# Document Loaders
+# =========================
+pypdf
+pymupdf
+unstructured
+python-docx
+docx2txt
+beautifulsoup4
+lxml
+
+# =========================
+# Text Splitting & Processing
+# =========================
+nltk
+
+# =========================
+# Web/API Requests
+# =========================
+requests
+httpx
+
+# =========================
+# Data Handling
+# =========================
+numpy
+pandas
+
+# =========================
+# Tokenization & Transformers
+# =========================
+transformers
+torch
+
+# =========================
+# FastAPI Backend (Optional)
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Streamlit UI (Optional)
+# =========================
+streamlit
+
+# =========================
+# Logging & Utilities
+# =========================
+tqdm
+
+# =========================
+# Jupyter Support (Optional)
+# =========================
+jupyter
+ipykernel
+
+# =========================
+# Evaluation & RAG Testing
+# =========================
+ragas
+datasets
+
+# =========================
+# LangSmith Monitoring (Optional)
+# =========================
+langsmith
+
+# =========================
+# Async Support
+# =========================
+aiofiles
+
+# =========================
+# PDF OCR Support (Optional)
+# =========================
+pytesseract
+Pillow
+
+# =========================
+# Audio / Multimodal (Optional)
+# =========================
+openai-whisper
+
+# =========================
+# Retry & Robustness
+# =========================
+tenacity
