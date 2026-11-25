@@ -1,7 +1,39 @@
+
+# Environment variables and secrets
 .env
 *.env
-node_modules/
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
 .DS_Store
+.AppleDouble
+
+# IDEs
+.vscode/
+.idea/
+
+# Build and distribution
 dist/
-build/RAG Project/document loaders/Acuvate Grooming.pdf
+build/
+*.egg-info/
+
+# Node
+node_modules/
+
+# Generated files
+*.log
+
+# Company document - do not publish
 RAG Project/document loaders/Acuvate Grooming.pdf
